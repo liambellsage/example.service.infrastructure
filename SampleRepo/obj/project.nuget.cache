@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "W+VaoPstPGJKl4wlKFP73luzIfjqrrk0xFdA1pqRMPY9T5cWRcOt7uNa7IR+Rr3+w4K0yllCGkhMHdjb8oXZOA==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\pioneer-artifacts\\SampleRepo\\SampleRepo\\SampleRepo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\liam.bell\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\liam.bell\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\liam.bell\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\liam.bell\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\liam.bell\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\liam.bell\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
